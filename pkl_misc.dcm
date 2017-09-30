@@ -10,6 +10,10 @@ D Dual 2-input EXCLUSIVE-OR gate
 K dual xor gate exclusive or
 $ENDCMP
 #
+$CMP BQ21040
+D 0.8A, Single Input, Single Cell Li-Ion and Li-Pol Battery Charger
+$ENDCMP
+#
 $CMP BQ24075
 D 1.5A USB-Friendly Li-Ion Battery Charger and Power-Path Management IC
 $ENDCMP
@@ -53,6 +57,10 @@ $CMP MCP4661-ML
 D 8Bit Dual I2C Digital Potentiometer in QFN16 Package
 $ENDCMP
 #
+$CMP MCP4661-ST
+D 8Bit Dual I2C Digital Potentiometer in TSSOP Package
+$ENDCMP
+#
 $CMP NC7NZ34
 D TinyLogic UHS Tripple Buffer
 K line driver buffer
@@ -80,6 +88,14 @@ $ENDCMP
 #
 $CMP TPA6135A2
 D Stereo Headphone Amplifier With Differential Input and HI-Z Mode
+$ENDCMP
+#
+$CMP TPA6139A2-PW
+D Stereo Headphone Amplifier With Programmable Fixed Gain
+$ENDCMP
+#
+$CMP TPS2111A
+D Autoswitching Power Mux
 $ENDCMP
 #
 $CMP UBLOX-MAX-7Q
